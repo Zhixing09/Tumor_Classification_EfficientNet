@@ -10,9 +10,16 @@ In many developing countries, the scarcity of skilled physicians and a lack of a
 
 EfficientNetB3
 
-### Model Structure
-
 ### Training and Validation Results
 
+<img width="689" alt="Screenshot 2023-05-24 at 7 11 34 PM" src="https://github.com/Zhixing09/Tumor_Classification_EfficientNet/assets/130931329/a37ecd87-6525-4665-919d-74acda4ed223">
+
+<img width="655" alt="Screenshot 2023-05-24 at 7 11 42 PM" src="https://github.com/Zhixing09/Tumor_Classification_EfficientNet/assets/130931329/a5b62151-03ca-49cd-85ba-d99e990dbd98">
+
 ### Test Set Performance
+
+<img width="465" alt="Screenshot 2023-05-24 at 7 11 51 PM" src="https://github.com/Zhixing09/Tumor_Classification_EfficientNet/assets/130931329/d303aefd-338e-475f-ab68-062733d0ba5b">
+
+<img width="639" alt="Screenshot 2023-05-24 at 7 11 56 PM" src="https://github.com/Zhixing09/Tumor_Classification_EfficientNet/assets/130931329/b11f4a46-da7e-421e-9a4d-2ec584dfe149">
+
 
